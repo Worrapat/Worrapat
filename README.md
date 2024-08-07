@@ -17,7 +17,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Sqlserver" alt="Sqlserver" width="40" height="40"/>&nbsp;
-<img src="https://www.techtalkthai.com/wp-content/uploads/2020/03/ServiceNow-logo-600x300-1.jpg" title="Sqlserver" alt="Sqlserver" width="70" height="40"/>&nbsp;
 
 </div>
 
